@@ -28,9 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-###
-<br>
-Sou um profissional formado em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, desenvolvimento web, sistemas desktop e criação de soluções inovadoras.
-<br>
-## Contato: 
-rafaelsiqueira.98bm@gmail.com
+### Sobre
+Sou um profissional formado em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, desenvolvimento web, sistemas desktop e na criação de soluções inovadoras.
+
+## Contato: rafaelsiqueira.98bm@gmail.com
