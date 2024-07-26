@@ -31,5 +31,6 @@
 ###
 <br>
 Sou um profissional formado em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, desenvolvimento web, sistemas desktop e criação de soluções inovadoras.
-## Contato: <br/>
+<br>
+## Contato: 
 rafaelsiqueira.98bm@gmail.com
