@@ -30,7 +30,6 @@
 
 ###
 <br>
-Sou desenvolvedor Júnior, formado em Análise e Desenvolvimento de Sistemas. O JavaScript é minha principal stack, tenho conhecimento e já fiz alguns projetos em ReactJS e NodeJS. Atualmente, estou me aprofundando em C# .NET. Gosto de enfrentar desafios e estou sempre em busca de aprender e melhorar. Meu foco é solucionar problemas e criar soluções em tecnologia, HTML, CSS3, Javascript, VueJS, Asp.NET, TypeScript, NodeJS, MySQL e C# são algumas das tecnologias que tenho mais afinidade.
-
+Sou um profissional formado em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, desenvolvimento web, sistemas desktop e criação de soluções inovadoras.
 ## Contato: <br/>
 rafaelsiqueira.98bm@gmail.com
