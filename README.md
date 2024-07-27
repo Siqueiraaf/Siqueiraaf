@@ -39,7 +39,7 @@
 
 ### Sobre
 
-Sou um profissional formado em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, desenvolvimento web, sistemas desktop e na criação de soluções inovadoras.
+Sou um profissional formado em Análise e Desenvolvimento de Sistemas. Sou desenvolvedor web, estou aprendendo sistemas desktop e sou adepto a criação de soluções inovadoras.
 
 ### Contato
 
