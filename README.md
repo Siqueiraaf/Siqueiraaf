@@ -1,5 +1,5 @@
 # Seja bem vindo ao meu GitHub! 
-## Eu sou o Rafael Siqueira. ✌🏽
+## Eu sou o Rafael Siqueira.
 Um Desenvolvedor web Junior graduado em Análise e Desenvolvimento de Sistemas. Com mais de 5 anos de experiência atuando como protesista agora estou focado em desenvolvimento de software. Apaixonado por tecnologia, jogos e livros, tenho experiência e conhecimento em várias tecnologias e estou sempre em busca de melhorar minhas habilidades e aprender novas ferramentas.
 
 ## 💻 Minhas Principais Stacks são:
