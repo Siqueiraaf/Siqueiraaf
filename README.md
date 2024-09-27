@@ -19,11 +19,14 @@ Um Desenvolvedor web Junior graduado em Análise e Desenvolvimento de Sistemas. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" style="display:inline-block; margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" style="display:inline-block; margin-right:12px;" />
 </div>
+
 ## Objetivo
+
 Atualmente, estou dedicado a aprimorar minhas habilidades em criação de layouts responsivos e no desenvolvimento de APIs CRUD eficientes. Tenho conhecimento em C#, ReactJS e SQL, e estou sempre em busca de novos desafios que me permitam crescer profissionalmente.
 Estou aberto a propostas e oportunidades. Principalmente que me ajudem a expandir meu conhecimento e contribuir para projetos inovadores.
 
 ## Contato
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-siqueira-381884153/) 
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/rafukka) 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siqueiraa98/)
