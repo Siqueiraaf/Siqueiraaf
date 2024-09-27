@@ -11,6 +11,7 @@ Um Desenvolvedor web Junior graduado em Análise e Desenvolvimento de Sistemas. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="display:inline-block; margin-right:12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" style="display:inline-block; margin-right:12px;" />
 </div> 
+
 ### Back End:
 <div align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" style="display:inline-block; margin-right:12px;" />
