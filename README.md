@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu GitHub! 
 ## Eu sou o Rafael Siqueira.
-Desenvolvedor web Junior graduado em Análise e Desenvolvimento de Sistemas. Se aventurando no mundo da programação até encontrar meu lugar ao sol.
+Desenvolvedor web Junior graduado em Análise e Desenvolvimento de Sistemas. Se aventurando no mundo da programação até encontrar meu lugar ao sol kkkk.
 ## 💻 Minhas Principais Stacks são:
 ### Front End: 
 <div align="left">
