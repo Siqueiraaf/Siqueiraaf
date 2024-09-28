@@ -13,7 +13,7 @@
 <img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
 
-### Minhas
+### Minhas Redes Sociais:
 <div display="inline" >
           
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-siqueira-381884153/) 
