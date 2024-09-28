@@ -3,6 +3,7 @@
 - 📚 Amante dos **Livros** <br>
 - 🕹️ Apaixonado por **Jogos**
 
+### Utilizando atualmente as techs:
 <div display="inline">
 <img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
