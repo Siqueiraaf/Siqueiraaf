@@ -2,7 +2,7 @@
 - 🖥️ **Desenvolvedor Junior** graduado em Análise e Desenvolvimento de Sistemas.
 - 📚 Amante dos **Livros** <br>
 - 🕹️ Apaixonado por **Jogos**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img heigh="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
           
 
 
