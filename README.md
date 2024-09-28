@@ -15,7 +15,16 @@
 
 ### Minhas Redes Sociais:
 <div display="inline" >
+<a href="https://www.linkedin.com/in/rafael-siqueira-381884153/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">  
+</a>
+<a>
           
+</a>
+<a>
+          
+</a>
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-siqueira-381884153/) 
 
 [![reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/rafukka) 
