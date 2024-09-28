@@ -1,6 +1,6 @@
 ## Olá meu nome Rafael.
 
-🖥️ **Desenvolvedor Junior** graduado em Análise e Desenvolvimento de Sistemas. Levando a sério a aventura da programação!
+🖥️ **Desenvolvedor Junior** graduado em Análise e Desenvolvimento de Sistemas.
 
 📚 Amante dos **Livros**
 
