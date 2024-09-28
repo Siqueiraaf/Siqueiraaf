@@ -1,6 +1,8 @@
-## Eu sou o Rafael Siqueira.
-Desenvolvedor web Junior graduado em Análise e Desenvolvimento de Sistemas. Levando a sério a aventura do mundo da programação!
+## Olá meu nome Rafael.
 
+🖥️ **Desenvolvedor Junior** graduado em Análise e Desenvolvimento de Sistemas. Levando a sério a aventura da programação!
+📚 Amante dos **Livros**
+🕹️ Apaixonado por **Jogos**
 
 
 
