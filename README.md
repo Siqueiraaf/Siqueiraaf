@@ -20,7 +20,7 @@
 
 [![reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/rafukka) 
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rafaelsiqueira.98bm@gmail.com)     
+[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rafaelsiqueira.98bm@gmail.com)     
 </div>
           
 
