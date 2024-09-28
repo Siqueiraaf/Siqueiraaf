@@ -2,8 +2,12 @@
 - 🖥️ **Desenvolvedor Junior** graduado em Análise e Desenvolvimento de Sistemas.
 - 📚 Amante dos **Livros** <br>
 - 🕹️ Apaixonado por **Jogos**
-<img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
+
+<div dispaly="inline">
+          <img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          <img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
+</div>
+
           
 
           
