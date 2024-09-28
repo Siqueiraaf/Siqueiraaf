@@ -17,10 +17,12 @@
 <div display="inline">
 
 
-<img src="" />
+<img heigh="35" width="35" src="" />
+
+
           
           
-[![linkedin](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/rafael-siqueira-381884153/) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-siqueira-381884153/) 
 
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/rafukka) 
 
