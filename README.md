@@ -1,4 +1,4 @@
-# Bem vindo ao meu perfil!
+# Bem vindo ao meu perfil, me chamdo Rafael Siqueira ali em baixo tem um breve resumo desse carinha haha
 - 🖥️ **Desenvolvedor Junior** graduado em Análise e Desenvolvimento de Sistemas.
 - 📚 Amante dos **Livros** <br>
 - 🕹️ Apaixonado por **Jogos**
