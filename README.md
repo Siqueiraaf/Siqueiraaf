@@ -27,7 +27,7 @@
 </div>
 
 ### Objetivo
-Atualmente, estou dedicado a aprimorar minhas habilidades em criação de layouts e no desenvolvimento de APIs CRUD eficientes. Tenho conhecimento em C#, ReactJS e SQL, e estou sempre em busca de novos desafios que me permitam crescer profissionalmente.
+Atualmente, estou dedicado a aprimorar minhas habilidades em criação de layouts e no desenvolvimento de APIs CRUD eficientes. Tenho conhecimento em C#,.NET, ASP.NET, ReactJS e SQL Server, e estou sempre em busca de novos desafios que me permitam crescer profissionalmente.
 
           
           
