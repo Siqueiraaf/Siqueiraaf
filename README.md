@@ -2,19 +2,9 @@
 - 🖥️ Sou um desenvolvedor apaixonado por transformar ideias em soluções funcionais, sempre buscando aprender e evoluir no mundo da tecnologia. graduado em Análise e Desenvolvimento de Sistemas.
 
 ### ⚙️ Tecnologias que uso:
-- **Frontend:** ReactJS, JavaScript
-- **Backend:** ASP.NET Core, C#
-- **Banco de Dados:** SQL Server, MySQL
-<div display="inline">
-<img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
-<img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<!--<img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />-->
-<img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-    ### :
-
-</div>
+- **Frontend:** ReactJS, JavaScript e Typescript.
+- **Backend:** ASP.NET Core, C# e NodeJS.
+- **Banco de Dados:** SQL Server e MySQL.
 
 ### Minhas Redes Sociais:
 <div display="inline" >
