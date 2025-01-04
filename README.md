@@ -5,8 +5,9 @@ Sou **Rafael Siqueira**, um **Desenvolvedor de Software** apaixonado por constru
 ---
 
 ## ⚙️ **Tecnologias e Ferramentas**
-
-### **Front-end**  
+<div>
+  
+### **Front-end** 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
@@ -18,6 +19,10 @@ Sou **Rafael Siqueira**, um **Desenvolvedor de Software** apaixonado por constru
 ### **Banco de Dados**  
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/)  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+</div>
+
+
 
 ---
 
