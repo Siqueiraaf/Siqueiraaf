@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu Perfil!
 
-Sou **Rafael Siqueira**, um **Desenvolvedor de Software** apaixonado por construir soluções tecnológicas eficientes e inovadoras. Com formação em **Análise e Desenvolvimento de Sistemas**, tenho conhecimento em **desenvolvimento full-stack**, focando na criação de **APIs** robustas e interfaces intuitivas. Meu compromisso com a qualidade e o aprendizado contínuo me impulsionam a enfrentar desafios complexos e a evoluir constantemente no setor de tecnologia.
+Sou **Rafael Siqueira**, um **Desenvolvedor de Software** apaixonado por construir soluções tecnológicas eficientes e inovadoras. Com formação em **Análise e Desenvolvimento de Sistemas**, tenho experiência em **desenvolvimento full-stack**, focando na criação de **APIs** robustas e interfaces intuitivas. Meu compromisso com a qualidade e o aprendizado contínuo me impulsionam a enfrentar desafios complexos e a evoluir constantemente no setor de tecnologia.
 
 ---
 
@@ -23,9 +23,9 @@ Sou **Rafael Siqueira**, um **Desenvolvedor de Software** apaixonado por constru
 
 ## 🌐 **Conecte-se Comigo**
 
-- [**LinkedIn**](https://linkedin.com/in/rafael-siqueira-381884153)
-- [**Reddit**](https://www.reddit.com/user/rafukka)
-- [**E-mail**](mailto:rafaelsiqueira.98bm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-siqueira-381884153)  
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/rafukka)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelsiqueira.98bm@gmail.com)
 
 ---
 
