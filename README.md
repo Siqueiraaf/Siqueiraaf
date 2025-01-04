@@ -1,9 +1,10 @@
 # Bem vindo ao meu perfil.
 - 🖥️ Sou um desenvolvedor apaixonado por transformar ideias em soluções funcionais, sempre buscando aprender e evoluir no mundo da tecnologia. graduado em Análise e Desenvolvimento de Sistemas.
-- 📚 Amante dos **Livros** <br>
-- 🕹️ Apaixonado por **Jogos**
 
-### Utilizando atualmente as Techs:
+### ⚙️ Tecnologias que uso:
+- **Frontend:** ReactJS, JavaScript
+- **Backend:** ASP.NET Core, C#
+- **Banco de Dados:** SQL Server, MySQL
 <div display="inline">
 <img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
@@ -11,6 +12,8 @@
 <!--<img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />-->
 <img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img heigh="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    ### :
+
 </div>
 
 ### Minhas Redes Sociais:
