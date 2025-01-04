@@ -7,16 +7,11 @@
 - **Banco de Dados:** SQL Server e MySQL.
 
 ### Minhas Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-siqueira-381884153)  
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/rafukka)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelsiqueira.98bm@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-siqueira-381884153)
 
-<a href="https://www.reddit.com/user/rafukka">
-    <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">       
-</a> <br>
-<a href="mailto:rafaelsiqueira.98bm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">      
-</a>   
-</div>
 
 ### Objetivo
 Atualmente, estou dedicado a aprimorar minhas habilidades em criação de layouts e no desenvolvimento de APIs CRUD eficientes. Tenho conhecimento em C#,.NET, ASP.NET, ReactJS e SQL Server, e estou sempre em busca de novos desafios que me permitam crescer profissionalmente.
