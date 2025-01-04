@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil.
-- 🖥️ **Desenvolvedor Junior** graduado em Análise e Desenvolvimento de Sistemas.
+- 🖥️ Sou um desenvolvedor apaixonado por transformar ideias em soluções funcionais, sempre buscando aprender e evoluir no mundo da tecnologia. graduado em Análise e Desenvolvimento de Sistemas.
 - 📚 Amante dos **Livros** <br>
 - 🕹️ Apaixonado por **Jogos**
 
@@ -17,10 +17,10 @@
 <div display="inline" >
 <a href="https://www.linkedin.com/in/rafael-siqueira-381884153/" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">  
-</a>
+</a> <br>
 <a href="https://www.reddit.com/user/rafukka">
     <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">       
-</a>
+</a> <br>
 <a href="mailto:rafaelsiqueira.98bm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">      
 </a>   
