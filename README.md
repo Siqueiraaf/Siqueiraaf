@@ -7,10 +7,10 @@ Sou **Rafael Siqueira**, um **Desenvolvedor de Software** apaixonado por constru
 ## ⚙️ **Tecnologias e Ferramentas**
 
 ### **Front-end**
-- |**JavaScript**  
-  [Documentação](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
-- |**ReactJS**  
-  [Documentação](https://reactjs.org/)|
+- **JavaScript**  
+  [Documentação](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **ReactJS**  
+  [Documentação](https://reactjs.org/)
 
 ### **Back-end**
 - **.NET**  
