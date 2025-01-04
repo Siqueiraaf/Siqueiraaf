@@ -7,10 +7,9 @@
 - **Banco de Dados:** SQL Server e MySQL.
 
 ### Minhas Redes Sociais:
-<div display="inline" >
-<a href="https://www.linkedin.com/in/rafael-siqueira-381884153/" >
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">  
-</a> <br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-siqueira-381884153)
+
 <a href="https://www.reddit.com/user/rafukka">
     <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">       
 </a> <br>
