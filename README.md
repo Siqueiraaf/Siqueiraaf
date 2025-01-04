@@ -29,4 +29,4 @@ Atualmente, meu foco está em:
 
 ---
 
-Estou sempre em busca de oportunidades que me permitam aplicar minhas habilidades, aprender e colaborar em projetos que façam a diferença.
+Estou sempre em busca de oportunidades profissionais que permitam aplicar minhas habilidades, aprender e colaborar em projetos que façam a diferença.
