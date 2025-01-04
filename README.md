@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu Perfil!
 
-Sou **Rafael Siqueira**, um **Desenvolvedor de Software** apaixonado por construir soluções tecnológicas eficientes e inovadoras. Com formação em **Análise e Desenvolvimento de Sistemas**, tenho experiência em **desenvolvimento full-stack**, focando na criação de **APIs** robustas e interfaces intuitivas. Meu compromisso com a qualidade e o aprendizado contínuo me impulsionam a enfrentar desafios complexos e a evoluir constantemente no setor de tecnologia.
+Sou **Rafael Siqueira**, um **Desenvolvedor de Software** apaixonado por construir soluções tecnológicas eficientes e inovadoras. Com formação em **Análise e Desenvolvimento de Sistemas**, tenho conhecimento em **desenvolvimento full-stack**, focando na criação de **APIs** robustas e interfaces intuitivas. Meu compromisso com a qualidade e o aprendizado contínuo me impulsionam a enfrentar desafios complexos e a evoluir constantemente no setor de tecnologia.
 
 ---
 
