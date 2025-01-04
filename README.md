@@ -22,8 +22,6 @@ Sou **Rafael Siqueira**, um **Desenvolvedor de Software** apaixonado por constru
 
 </div>
 
-
-
 ---
 
 ## 🌐 **Conecte-se Comigo**
