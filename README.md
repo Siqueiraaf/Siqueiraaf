@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil.
-- 🖥️ Sou um desenvolvedor apaixonado por transformar ideias em soluções funcionais, sempre buscando aprender e evoluir no mundo da tecnologia. graduado em Análise e Desenvolvimento de Sistemas.
+🖥️ Sou um desenvolvedor apaixonado por transformar ideias em soluções funcionais, sempre buscando aprender e evoluir no mundo da tecnologia. graduado em Análise e Desenvolvimento de Sistemas.
 
 ### ⚙️ Tecnologias que uso:
 - **Frontend:** ReactJS, JavaScript e Typescript.
