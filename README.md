@@ -1,34 +1,50 @@
-👋 Bem-vindo ao meu Perfil!
-Sou um Desenvolvedor de Software com formação em Análise e Desenvolvimento de Sistemas, focado em criar soluções inovadoras e eficientes. Com experiência em desenvolvimento full-stack, sou apaixonado por transformar ideias em produtos funcionais e de alta qualidade. Busco constantemente aprimorar minhas habilidades e enfrentar novos desafios no universo da tecnologia.
+# 👋 Bem-vindo ao meu Perfil!
 
-⚙️ Tecnologias e Ferramentas
-Front-end
+Sou **Rafael Siqueira**, um **Desenvolvedor de Software** apaixonado por construir soluções tecnológicas eficientes e inovadoras. Com formação em **Análise e Desenvolvimento de Sistemas**, tenho experiência em **desenvolvimento full-stack**, focando na criação de **APIs** robustas e interfaces intuitivas. Meu compromisso com a qualidade e o aprendizado contínuo me impulsionam a enfrentar desafios complexos e a evoluir constantemente no setor de tecnologia.
 
-JavaScript | Documentação
-ReactJS | Documentação
+---
 
-Back-end
+## ⚙️ **Tecnologias e Ferramentas**
 
-.NET | Documentação
-ASP.NET | Documentação
-C# | Documentação
+### **Front-end**
+- **JavaScript**  
+  [Documentação](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **ReactJS**  
+  [Documentação](https://reactjs.org/)
 
-Banco de Dados
+### **Back-end**
+- **.NET**  
+  [Documentação](https://dotnet.microsoft.com/)
+- **ASP.NET**  
+  [Documentação](https://dotnet.microsoft.com/apps/aspnet)
+- **C#**  
+  [Documentação](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
-SQL Server | Documentação
-MySQL | Documentação
+### **Banco de Dados**
+- **SQL Server**  
+  [Documentação](https://learn.microsoft.com/en-us/sql/sql-server/)
+- **MySQL**  
+  [Documentação](https://www.mysql.com/)
 
-🌐 Redes Sociais
+---
 
-LinkedIn
-Reddit
-E-mail
+## 🌐 **Conecte-se Comigo**
 
+- [**LinkedIn**](https://linkedin.com/in/rafael-siqueira-381884153)
+- [**Reddit**](https://www.reddit.com/user/rafukka)
+- [**E-mail**](mailto:rafaelsiqueira.98bm@gmail.com)
 
-🎯 Objetivos Profissionais
-Atualmente, estou focado em:
+---
 
-Aperfeiçoar o desenvolvimento de interfaces front-end modernas e responsivas, com experiência em ReactJS e melhores práticas de UX/UI.
-Desenvolver APIs robustas utilizando .NET e C#, garantindo alta performance e escalabilidade.
-Trabalhar com tecnologias como SQL Server e MySQL, otimizando consultas e garantindo a integridade dos dados.
-Continuar a evolução no campo da arquitetura de software e na aplicação de práticas ágeis em projetos de alta complexidade.
+## 🎯 **Objetivos Profissionais**
+
+Atualmente, meu foco está em:
+
+- **Aprimorar a criação de interfaces front-end** dinâmicas e responsivas, utilizando as melhores práticas de **UX/UI** e **ReactJS**.
+- **Desenvolver soluções back-end escaláveis e de alto desempenho**, com **.NET** e **C#**, garantindo a excelência no processamento de dados.
+- **Otimizar e garantir a integridade de dados** utilizando **SQL Server** e **MySQL**, com ênfase em consultas eficientes e estruturação de banco de dados.
+- **Expandir meus conhecimentos em arquitetura de software**, aplicando práticas ágeis e explorando novas tecnologias que agreguem valor aos projetos.
+
+---
+
+Estou sempre em busca de oportunidades que me permitam aplicar minhas habilidades, aprender e colaborar em projetos que façam a diferença.
