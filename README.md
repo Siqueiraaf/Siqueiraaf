@@ -3,21 +3,27 @@ Sou um Desenvolvedor de Software com formação em Análise e Desenvolvimento de
 
 ⚙️ Tecnologias e Ferramentas
 Front-end
+
 JavaScript | Documentação
 ReactJS | Documentação
 
 Back-end
+
 .NET | Documentação
 ASP.NET | Documentação
 C# | Documentação
+
 Banco de Dados
+
 SQL Server | Documentação
 MySQL | Documentação
 
 🌐 Redes Sociais
+
 LinkedIn
 Reddit
 E-mail
+
 
 🎯 Objetivos Profissionais
 Atualmente, estou focado em:
