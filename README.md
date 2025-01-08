@@ -1,5 +1,5 @@
 
-#👋Bem-vindo ao meu perfil no GitHub! 
+# 👋Bem-vindo ao meu perfil no GitHub! 
 Aqui você encontrará projetos que refletem meu aprendizado, experiência e paixão por desenvolver soluções criativas e eficazes.
 
 🌟 Desenvolvedor Júnior | Apaixonado por Tecnologia | Sempre Aprendendo
