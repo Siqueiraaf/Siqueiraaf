@@ -2,6 +2,12 @@
 
 ## ⚙️ **Tecnologias e Ferramentas que eu utilizo**
 <div align="center">
+  <img alt="C#" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+  <img alt="C#" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Node.svg"> 
+  <img alt="C#" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Node.svg"> 
   <img alt="C#" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Node.svg"> 
 </div>
 
