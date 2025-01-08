@@ -1,11 +1,5 @@
 # 👋 Bem-vindo ao meu Perfil!
-## 🎯 **Objetivos Profissionais**
 
-- **Aprimorar a criação de interfaces front-end** dinâmicas e responsivas, utilizando as melhores práticas de **UX/UI** e **ReactJS**.
-- **Desenvolver soluções back-end escaláveis e de alto desempenho**, com **.NET** e **C#**, garantindo a excelência no processamento de dados.
-- **Otimização e garantia da integridade de dados** utilizando **SQL Server** e **MySQL**, com ênfase em consultas eficientes e estruturação de banco de dados.
-- **Expansão dos meus conhecimentos em arquitetura de software**, aplicando práticas ágeis, explorando novas Arquiteturas e tecnologias que agreguem valor aos projetos.
-  
 ## ⚙️ **Tecnologias e Ferramentas que eu utilizo**
 | **Front-end** | **Back-end** | **Banco de Dados** |
 |:-------------:|:------------:|:------------------:|
