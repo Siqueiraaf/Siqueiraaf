@@ -2,6 +2,7 @@
 
 # 👋 Bem-vindo ao meu perfil no GitHub! 
 🌟 Desenvolvedor Júnior | Apaixonado por Tecnologia | Sempre Aprendendo
+
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.  
 💻 Experiência em **desenvolvimento web** e projetos backend/frontend.  
 🚀 Sempre em busca de **aprimorar habilidades** e contribuir para projetos desafiadores.  
