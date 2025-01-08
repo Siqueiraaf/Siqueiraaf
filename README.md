@@ -1,11 +1,7 @@
 <div align="center">
 
 # 👋 Bem-vindo ao meu perfil no GitHub! 
-🌟 Desenvolvedor Júnior | Apaixonado por Tecnologia | Sempre Aprendendo
-
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.  
-💻 Conhecimento em **desenvolvimento web** e projetos backend/frontend.  
-🚀 Sempre em busca de **aprimorar habilidades** e contribuir para projetos desafiadores.  
+🌟 Desenvolvedor Júnior | 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** | 💻 Sempre Aprendendo. 
 
 ### Aqui você encontrará projetos que refletem meu aprendizado, experiência e paixão por desenvolver soluções criativas e eficazes.
 
