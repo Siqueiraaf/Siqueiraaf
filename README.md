@@ -5,7 +5,7 @@
 
 ### Aqui você encontrará projetos que refletem meu aprendizado, experiência e paixão por desenvolver soluções.
 
-## 🚀 Tecnologias que eu utilizo  
+## 🚀 Tecnologias que eu utilizo:  
 Aqui estão algumas das principais tecnologias com as quais eu estou trabalhando:
 
 <div> 
