@@ -5,22 +5,29 @@
 
 🌟 Desenvolvedor Júnior | Apaixonado por Tecnologia | Sempre Aprendendo
 
+---
+
 ## 🚀 Tecnologias que eu utilizo  
 Aqui estão algumas das principais tecnologias com as quais trabalho:
 
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/> 
 </div>
+
+---
 
 ## 🌱 Sobre mim:  
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.  
 💻 Experiência em **desenvolvimento web** e projetos backend/frontend.  
 🚀 Sempre em busca de **aprimorar habilidades** e contribuir para projetos desafiadores.  
 
+---
 
 ## 📫 Vamos nos conectar?  
 
