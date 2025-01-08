@@ -4,7 +4,7 @@
 🌟 Desenvolvedor Júnior | Apaixonado por Tecnologia | Sempre Aprendendo
 
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.  
-💻 Experiência em **desenvolvimento web** e projetos backend/frontend.  
+💻 Conhecimento em **desenvolvimento web** e projetos backend/frontend.  
 🚀 Sempre em busca de **aprimorar habilidades** e contribuir para projetos desafiadores.  
 
 ### Aqui você encontrará projetos que refletem meu aprendizado, experiência e paixão por desenvolver soluções criativas e eficazes.
