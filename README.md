@@ -5,8 +5,6 @@
 
 🌟 Desenvolvedor Júnior | Apaixonado por Tecnologia | Sempre Aprendendo
 
----
-
 ## 🚀 Tecnologias que eu utilizo  
 Aqui estão algumas das principais tecnologias com as quais trabalho:
 
@@ -18,14 +16,11 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="50" height="50"/> 
 </div>
 
----
-
 ## 🌱 Sobre mim:  
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.  
 💻 Experiência em **desenvolvimento web** e projetos backend/frontend.  
 🚀 Sempre em busca de **aprimorar habilidades** e contribuir para projetos desafiadores.  
 
----
 
 ## 📫 Vamos nos conectar?  
 
