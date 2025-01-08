@@ -1,7 +1,10 @@
 <div align="center">
 
 # 👋 Bem-vindo ao meu perfil no GitHub! 
-#### 🌟 Desenvolvedor Júnior | Apaixonado por Tecnologia | Sempre Aprendendo
+- 🌟 Desenvolvedor Júnior | Apaixonado por Tecnologia | Sempre Aprendendo
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.  
+- 💻 Experiência em **desenvolvimento web** e projetos backend/frontend.  
+- 🚀 Sempre em busca de **aprimorar habilidades** e contribuir para projetos desafiadores.  
 
 ### Aqui você encontrará projetos que refletem meu aprendizado, experiência e paixão por desenvolver soluções criativas e eficazes.
 
@@ -17,13 +20,6 @@ Aqui estão algumas das principais tecnologias com as quais eu estou trabalhando
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/> 
 </div>
-
-
-## 🌱 Sobre mim:  
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.  
-💻 Experiência em **desenvolvimento web** e projetos backend/frontend.  
-🚀 Sempre em busca de **aprimorar habilidades** e contribuir para projetos desafiadores.  
-
 
 ## 📫 Vamos nos conectar?  
 
