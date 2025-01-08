@@ -5,8 +5,7 @@
 
 ### Aqui você encontrará projetos que refletem meu aprendizado, experiência e paixão por desenvolver soluções.
 
-## 🚀 Tecnologias que eu utilizo:  
-Aqui estão algumas das principais tecnologias com as quais eu estou trabalhando:
+## 🚀 Algumas das Principais Tecnologias as quais eu estou trabalhando:
 
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> 
