@@ -5,7 +5,7 @@
 🌟 Desenvolvedor Júnior | 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** | 💻 Sempre Aprendendo. 
 
 
-## 🚀 Algumas das Principais Tecnologias as quais eu estou trabalhando:
+## 🚀 Algumas das Tecnologias quais eu estou trabalhando:
 
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> 
