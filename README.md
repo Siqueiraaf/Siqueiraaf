@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/> 
 </div>
 
-## 📫 Vamos nos conectar?  
+## 📫 Minhas Redes
 
 <div> 
   <a href = "mailto:rafaelsiqueira.98bm@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
