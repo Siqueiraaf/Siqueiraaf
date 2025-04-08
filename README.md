@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Rafael Siqueira | Desenvolvedor Full Stack Júnior
+# 👨‍💻 Rafael Siqueira | Desenvolvedor Back-End Júnior
 
 Sou um desenvolvedor apaixonado por transformar ideias em soluções reais.  
 Graduado em **Análise e Desenvolvimento de Sistemas**, busco constantemente aprender novas tecnologias e melhorar minhas habilidades como desenvolvedor Full Stack. 🚀
