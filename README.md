@@ -8,8 +8,6 @@
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**  
 🌱 Em constante evolução como dev e ser humano.
 
----
-
 ## 🚀 Tecnologias que estou utilizando
 
 <table align="center">
@@ -55,8 +53,6 @@
   </tbody>
 </table>
 
----
-
 ## 📫 Minhas Redes
 
 <a href="mailto:rafaelsiqueira.98bm@gmail.com">
@@ -65,8 +61,6 @@
 <a href="https://www.linkedin.com/in/rafael-siqueira-381884153/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
----
 
 ✨ Obrigado por visitar meu perfil!
 
