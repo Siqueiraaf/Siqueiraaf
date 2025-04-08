@@ -29,14 +29,6 @@ Graduado em **Análise e Desenvolvimento de Sistemas**, busco constantemente apr
 
 ---
 
-## 💼 Projetos em Destaque
-
-- 🔗 [**Projeto FinançasApp**](https://github.com/seu-usuario/financas-app): Controle de finanças pessoais com React, Node.js e SQL Server.
-- 🔗 [**API de Vendas**](https://github.com/seu-usuario/api-vendas-dotnet): API RESTful com .NET Core, aplicação de arquitetura limpa e testes com xUnit.
-- 🔗 [**Todo List**](https://github.com/seu-usuario/todo-react-ts): Aplicativo simples de tarefas usando React + TypeScript.
-
----
-
 ## 🙋 Sobre Mim
 
 - 🎯 Atualmente estudando **Arquitetura de Software**, **TDD** e aprimorando aplicações com **Clean Architecture**.  
