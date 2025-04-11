@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Bem-vindo ao meu perfil no GitHub!
+# Bem-vindo ao meu perfil no GitHub!
 
 ### Aqui você encontrará projetos que refletem meu aprendizado, experiência e paixão por desenvolver soluções com a tecnologia.
 
