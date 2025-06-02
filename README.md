@@ -1,6 +1,6 @@
 <div align="center">
 
-## Aqui estão projetos que refletem meu aprendizado, experiência e paixão por desenvolver soluções com a tecnologia.
+## Aqui estão projetos que refletem meu aprendizado, experiência e paixão por Desenvolver Soluções com a Tecnologia.
 
 <div>💻 Desenvolvedor Júnior</div>  
 <div>🎓 Graduado em Análise e Desenvolvimento de Sistemas</div> 
