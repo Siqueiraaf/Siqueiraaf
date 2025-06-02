@@ -1,5 +1,5 @@
 <div align="center">
-Desenvolvedor Júnior</div>  
+Desenvolvedor Júnior 
 Graduado em Análise e Desenvolvimento de Sistemas
 Em constante evolução como dev e ser humano.
 
