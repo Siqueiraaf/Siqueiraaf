@@ -1,5 +1,5 @@
 <div align="center">
-  Aqui estão projetos que refletem meu aprendizado, experiência e paixão por Desenvolver Soluções com a Tecnologia.
+  # Aqui estão projetos que refletem meu aprendizado, experiência e paixão por Desenvolver Soluções com a Tecnologia.
   
   ### Desenvolvedor Júnior | Graduado em Análise e Desenvolvimento de Sistemas | Em constante evolução como dev e humano.
 
