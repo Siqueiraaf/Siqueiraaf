@@ -2,7 +2,9 @@
 
 ## Aqui estão projetos que refletem meu aprendizado, experiência e paixão por desenvolver soluções com a tecnologia.
 
-<div>💻 Desenvolvedor Júnior</div>  <div>🎓 Graduado em **Análise e Desenvolvimento de Sistemas** </div> <div>🌱 Em constante evolução como dev e ser humano.</div>
+<div>💻 Desenvolvedor Júnior</div>  
+<div>🎓 Graduado em **Análise e Desenvolvimento de Sistemas**</div> 
+<div>🌱 Em constante evolução como dev e ser humano.</div>
 
 ## 🚀 Tecnologias que estou utilizando
 
