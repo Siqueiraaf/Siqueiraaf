@@ -2,6 +2,8 @@
 
   #### Desenvolvedor Júnior | Graduado em Análise e Desenvolvimento de Sistemas | Em constante evolução como dev e humano.
 
+  Aqui estão projetos que refletem meu aprendizado, experiência e paixão por Desenvolver Soluções com a Tecnologia.
+
 ## 🚀 Tecnologias que estou utilizando
 
 <table align="center">
