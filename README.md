@@ -4,7 +4,7 @@
 
   #### Aqui estão projetos que refletem meu aprendizado, experiência e paixão por Desenvolver Soluções com a Tecnologia.
 
-## 🚀 Tecnologias que estou utilizando
+## Tecnologias que estou utilizando
 
 <table align="center">
   <tr>
