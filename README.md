@@ -1,7 +1,7 @@
 <div align="center">
-# <div>Desenvolvedor Júnior</div>  
-# <div>Graduado em Análise e Desenvolvimento de Sistemas</div> 
-# <div>Em constante evolução como dev e ser humano.</div>
+# Desenvolvedor Júnior</div>  
+# Graduado em Análise e Desenvolvimento de Sistemas
+# Em constante evolução como dev e ser humano.</div>
 
 ## Aqui estão projetos que refletem meu aprendizado, experiência e paixão por Desenvolver Soluções com a Tecnologia.
 
