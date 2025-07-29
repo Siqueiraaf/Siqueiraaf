@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Desenvolvedor Júnior | Graduado em Análise e Desenvolvimento de Sistemas | Em constante evolução.
+  ### Desenvolvedor Estágiario | Graduado em Análise e Desenvolvimento de Sistemas | Em constante evolução.
 
   #### Aqui estão projetos que refletem meu aprendizado, experiência e paixão por Desenvolver Soluções com a Tecnologia.
 
