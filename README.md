@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Estágiario em Desenvolvimento de Software | Graduado em Análise e Desenvolvimento de Sistemas | Em constante evolução.
+  ### Graduado em Análise e Desenvolvimento de Sistemas | Em constante evolução.
 
   #### Aqui estão projetos que refletem meu aprendizado, experiência e paixão por Desenvolver Soluções com a Tecnologia.
 
