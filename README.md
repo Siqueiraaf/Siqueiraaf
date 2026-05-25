@@ -20,11 +20,9 @@ Formado em Análise e Desenvolvimento de Sistemas, passo meus dias criando APIs,
     </td>
   </tr>
 </table>
-
 Aqui você vai encontrar projetos que documentam minha jornada, uns são experimentos, outros são soluções reais. Todos têm uma coisa em comum: foram feitos com vontade de aprender.
 
-## Se quiser trocar uma ideia, falar sobre tech, oportunidades ou só mandar um oi:
-
+Se quiser trocar uma ideia, falar sobre tech, oportunidades ou só mandar um oi:
 <a href="mailto:dev.rafaelsiqueira@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
