@@ -14,7 +14,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-      https://camo.githubusercontent.com/bc7ab785b4031d1c1a25ec3e3a4997e2169116c106d1da31542d4cd3892fc6aa/68747470733a2f2f736c61636b6d6f6a69732e636f6d2f656d6f6a69732f34393032302d36306670735f706172726f742f646f776e6c6f6164
     </td>
   </tr>
   <tr>
