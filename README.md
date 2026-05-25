@@ -1,6 +1,6 @@
 <div align="center">
 
-### Sou graduado em Análise e Desenvolvimento de Sistemas.
+### Sou desenvolvedor backend graduado em Análise e Desenvolvimento de Sistemas.
 
 #### Aqui estão projetos que refletem meu aprendizado, experiência e soluções com tecnologia.
 
@@ -19,14 +19,6 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server"/>
-    </td>
-  </tr>
-
-  <tr>
-    <th align="center">Front-End</th>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
     </td>
   </tr>
 </table>
