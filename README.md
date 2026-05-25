@@ -2,23 +2,11 @@
 
 <img src="https://slackmojis.com/emojis/49020-60fps_parrot/download" width="80"/>
 
-### Graduado em Análise e Desenvolvimento de Sistemas | Em constante evolução
+### Graduado em Análise e Desenvolvimento de Sistemas
 
-#### Aqui estão projetos que refletem meu aprendizado, experiência e paixão por desenvolver soluções com tecnologia.
+#### Aqui estão projetos que refletem meu aprendizado, experiência e soluções com tecnologia.
 
----
-
-## 🚀 Tecnologias que estou utilizando
-
-<table align="center">
-  <tr>
-    <th align="center">Front-End (Suporte)</th>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-    </td>
-  </tr>
+## Tecnologias que estou utilizando:
 
   <tr>
     <th align="center">Back-End</th>
@@ -37,7 +25,15 @@
   </tr>
 </table>
 
----
+<table align="center">
+  <tr>
+    <th align="center">Front-End</th>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+    </td>
+  </tr>
 
 ## 📫 Minhas Redes de Contato
 
