@@ -1,8 +1,6 @@
 <div align="center">
 
-### Sou desenvolvedor backend graduado em Análise e Desenvolvimento de Sistemas.
-
-#### Aqui estão projetos que refletem meu aprendizado, experiência e soluções com tecnologia.
+### Sou desenvolvedor backend graduado em Análise e Desenvolvimento de Sistemas e aqui estão alguns projetos que refletem meu aprendizado, experiência e soluções com tecnologia.
 
 ## Tecnologias que estou utilizando:
 <table>
