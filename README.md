@@ -1,24 +1,12 @@
 <div align="center">
 Sou formado em Análise e Desenvolvimento de Sistemas, passo meus dias criando APIs, debugando coisas que "funcionavam ontem" e tentando nomear variáveis de um jeito que faça sentido daqui a 6 meses. Quando não estou codando, provavelmente estou pensando em código. Aqui você vai encontrar projetos que documentam minha jornada, uns são experimentos, outros são soluções reais. Todos têm uma coisa em comum: foram feitos com vontade de aprender.
 
-## Principais tecnologias que estou utilizando:
-<table>
-  <tr>
-    <th align="center">Back-End</th>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt=".NET Core"/>
-    </td>
-  </tr>
+Principais tecnologias que estou utilizando:
+**Backend**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-  <tr>
-    <th align="center">Banco de Dados</th>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server"/>
-    </td>
-  </tr>
-</table>
+**Banco de Dados**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 Se quiser trocar uma ideia, falar sobre tech, oportunidades ou só mandar um oi:
 
