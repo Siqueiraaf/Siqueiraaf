@@ -1,6 +1,7 @@
 <div align="center">
 
-### Sou desenvolvedor backend graduado em Análise e Desenvolvimento de Sistemas e aqui estão alguns projetos que refletem meu aprendizado, experiência e soluções com tecnologia.
+### Formado em Análise e Desenvolvimento de Sistemas, passo meus dias criando APIs, debugando coisas que "funcionavam ontem" e tentando nomear variáveis de um jeito que faça sentido daqui a 6 meses.
+Quando não estou codando, provavelmente estou pensando em código.
 
 ## Tecnologias que estou utilizando:
 <table>
