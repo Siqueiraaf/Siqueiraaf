@@ -9,7 +9,7 @@
 
 <table align="center">
   <tr>
-    <th align="center">Front-End</th>
+    <th align="center">Front-End (Suporte)</th>
     <td align="center">
       <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>-->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
