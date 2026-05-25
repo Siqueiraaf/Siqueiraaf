@@ -1,6 +1,6 @@
 <div align="center">
 
-### Graduado em Análise e Desenvolvimento de Sistemas
+### Sou graduado em Análise e Desenvolvimento de Sistemas.
 
 #### Aqui estão projetos que refletem meu aprendizado, experiência e soluções com tecnologia.
 
