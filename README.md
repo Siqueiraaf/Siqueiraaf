@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://slackmojis.com/emojis/49020-60fps_parrot/download" width="80"/>
-
 ### Graduado em Análise e Desenvolvimento de Sistemas
 
 #### Aqui estão projetos que refletem meu aprendizado, experiência e soluções com tecnologia.
@@ -23,9 +21,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server"/>
     </td>
   </tr>
-</table>
 
-<table align="center">
   <tr>
     <th align="center">Front-End</th>
     <td align="center">
@@ -34,6 +30,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
     </td>
   </tr>
+</table>
 
 ## 📫 Minhas Redes de Contato
 
