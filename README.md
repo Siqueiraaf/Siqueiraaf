@@ -7,7 +7,7 @@
 #### Aqui estão projetos que refletem meu aprendizado, experiência e soluções com tecnologia.
 
 ## Tecnologias que estou utilizando:
-
+<table>
   <tr>
     <th align="center">Back-End</th>
     <td align="center">
